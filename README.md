@@ -6,8 +6,8 @@
 2. Instalar MongoDB Community Server https://www.mongodb.com/download-center
 3. Arrancar MongoDB https://docs.mongodb.com/manual/administration/install-community/
 En cada sistema operativo es distinto, por ejemplo en mac es: 'brew services start mongodb-community@4.2' y para pararlo: 'brew services stop mongodb-community@4.2'.
-4. Instalar los paquetes necesarios en la carpeta raiz con 'npm i'.
-5. Arrancar el proyecto con 'npm start' en la carpeta raiz, debe aparece 'Server listening on port 4000'.
+4. Instalar los paquetes necesarios en la carpeta raíz con 'npm i'.
+5. Arrancar el proyecto con 'npm start' en la carpeta raíz, debe aparece 'Server listening on port 4000'.
 
 # Como hacer peticiones a la API a través de Postman
 https://www.getpostman.com/
